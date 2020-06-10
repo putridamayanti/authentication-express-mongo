@@ -1,0 +1,24 @@
+{
+  "name": "authentication-express-mongo",
+  "version": "1.0.0",
+  "description": "Authentication Expressjs MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/putridamayanti/authentication-express-mongo.git"
+  },
+  "keywords": [
+    "authentication",
+    "expressjs",
+    "mongodb"
+  ],
+  "author": "Putri Damayanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/putridamayanti/authentication-express-mongo/issues"
+  },
+  "homepage": "https://github.com/putridamayanti/authentication-express-mongo#readme"
+}
