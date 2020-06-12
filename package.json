@@ -4,6 +4,7 @@
   "description": "Authentication Expressjs MongoDb",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/putridamayanti/authentication-express-mongo/issues"
   },
-  "homepage": "https://github.com/putridamayanti/authentication-express-mongo#readme"
+  "homepage": "https://github.com/putridamayanti/authentication-express-mongo#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.18"
+  }
 }
